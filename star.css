@@ -1,0 +1,29 @@
+.fa-star{
+    color: #FFC300;
+}
+
+body{
+    background: #360033;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0b8793, #360033);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0b8793, #360033); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.firstChallenge{
+display: flex;
+justify-content: center;
+align-content: center;
+flex-wrap: wrap;
+height: 30rem;
+width: 50rem;
+margin: auto;
+margin-top: 5rem    ;
+border: 5px groove #C490E4;
+border-radius:25px ;
+background-color: #F7F7F7;
+}
+
+.break{
+    flex-basis:100%;
+    height: 0;
+}
